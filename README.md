@@ -1,7 +1,7 @@
 <h1>Öğrenci Not Hesaplama Projesi</h1>
 
 Ad, soyad, numara, vize, final parametreleri girilerek 
-oluşturulmuş not ekleme/düzenleme/silme ekranıdır.
+oluşturulmuş, not ekleme/düzenleme/silme ekranıdır.
 
 Girilen vize ve final notlarının toplamının ikiye bölümü, 
 ortalamayı belirleyen işlem metodudur.
@@ -10,7 +10,9 @@ ortalamayı belirleyen işlem metodudur.
 
 • Javascript
 • HTML 
-• SCSS kullanılarak oluşturulmuştur.
+• SCSS 
+• CSS
+kullanılarak oluşturulmuştur.
 
 - Local Storage, getItem, setItem kullanıldı.
 - DOM yapısıyla HTML öğelerine erişim uygulandı.
