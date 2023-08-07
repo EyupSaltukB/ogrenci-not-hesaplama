@@ -14,6 +14,7 @@ ortalamayı belirleyen işlem metodudur.
 • CSS
 kullanılarak oluşturulmuştur.
 
+<h3> İşlemler </h3>
 - Local Storage, getItem, setItem kullanıldı.
 - DOM yapısıyla HTML öğelerine erişim uygulandı.
 - Bildirimler için Toastify kütüphanesi kullanıldı.
