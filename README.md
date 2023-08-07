@@ -24,6 +24,7 @@ kullanılarak oluşturulmuştur.
 - Bildirimler için Toastify kütüphanesi kullanıldı.
 - Delete ve edit fonksiyonları kullanıldı.
 - İkonlar Font Awesome'dan alındı.
+- Ölçü olarak aritmetik ortalama kullanılmıştır. (Vize + Final) / 2 
 
 
 <h3>Ekran Görüntüleri</h3>
