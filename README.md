@@ -6,6 +6,8 @@ oluşturulmuş, not ekleme/düzenleme/silme ekranıdır.
 Girilen vize ve final notlarının toplamının ikiye bölümü, 
 ortalamayı belirleyen işlem metodudur.
 
+JS ile dinamizm sağlanmıştır.
+
 <h2> Kullanılan Teknolojiler</h2>
 
 • Javascript
