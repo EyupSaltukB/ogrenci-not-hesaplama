@@ -1,4 +1,4 @@
-<h1>Öğrenci Not Hesaplama Projesi</h1>
+<h1>Öğrenci Not Hesaplama</h1>
 
 Ad, soyad, numara, vize, final parametreleri girilerek 
 oluşturulmuş, not ekleme/düzenleme/silme ekranıdır.
