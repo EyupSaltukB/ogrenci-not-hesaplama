@@ -1,7 +1,7 @@
 <h1>Öğrenci Not Hesaplama</h1>
 
-Ad, soyad, numara, vize, final parametreleri girilerek 
-oluşturulmuş, not ekleme/düzenleme/silme ekranıdır.
+Ad, soyad, numara, vize ve final parametreleri girilerek 
+oluşturulmuş not görüntüleme/ekleme/düzenleme/silme ekranıdır.
 
 Girilen vize ve final notlarının toplamının ikiye bölümü, 
 ortalamayı belirleyen işlem metodudur.
